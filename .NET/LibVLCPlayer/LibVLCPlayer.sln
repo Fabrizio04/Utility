@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibVLCPlayer", "LibVLCPlayer\LibVLCPlayer.csproj", "{4BC0856A-E2F0-4572-B206-1876513C006B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC0856A-E2F0-4572-B206-1876513C006B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0856A-E2F0-4572-B206-1876513C006B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0856A-E2F0-4572-B206-1876513C006B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC0856A-E2F0-4572-B206-1876513C006B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B77E63B-F678-45ED-ABC1-6644B9FDB202}
+	EndGlobalSection
+EndGlobal
